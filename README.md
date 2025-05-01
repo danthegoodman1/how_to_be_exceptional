@@ -1,4 +1,4 @@
-# How to be Exceptional
+# How to be Exceptional (or: how to get equity raises)
 
 I’ve always believed in merit-based compensation.
 
