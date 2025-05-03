@@ -3,6 +3,7 @@
 - [How to be Exceptional (or: how to get equity raises)](#how-to-be-exceptional-or-how-to-get-equity-raises)
   - [Agency](#agency)
   - [Unblocking your team is your default #1 priority](#unblocking-your-team-is-your-default-1-priority)
+  - [Never be a single point of failure](#never-be-a-single-point-of-failure)
   - [Always seek to get better, and are not offended](#always-seek-to-get-better-and-are-not-offended)
   - [Think like your users](#think-like-your-users)
   - [Understanding why](#understanding-why)
@@ -107,6 +108,39 @@ Obviously there is nuance to this, like if you’re working on something that ha
 I could go into all kinds of manufacturing optimization theory and make an analogy that team members are like machines in a factory, but the above should be enough.
 
 Specific to engineering, exceptional people perform review of other code first thing in the morning. They’re bringing a fresh perspective, and it prevents them from
+
+## Never be a single point of failure
+
+> _Exceptional people ensure that they are not the only one who can do something,_
+> _such that if they become unavailable, zero progress can be made._
+
+Similar to [unblocking your team](#unblocking-your-team-is-your-default-1-priority), being a single point of failure (SPoF) in an organization should be avoided at all costs.
+
+Removing SPoFs is a high priority task in distributed systems engineering, as well as organization building. An organization effectively is a distributed system, where you have components of teammates, teams, organizational groups (e.g. engineering, marketing), and coordination (leadership).
+
+Becoming a SPoF can arise from a variety of ways:
+
+- Using a language of framework that only you understand
+- Being the only one with access to deploy code, modify a database, access an admin panel, etc.
+- Writing non-obvious code with no documentation
+- ... and many more
+
+SPoFs become massive problems during the worst times.
+
+Imagine having downtime because of a bug in the code, and your entire team (except you) is rushing to figure out how the code even works.
+Hours later, they finally sort out the issue (or have some temporary workaround), but can't deploy the fix because they need your explicit approval in Github for the CI/CD to run, and nobody has direct access to Kubernetes.
+
+It means that the downtime of the entire organization = your downtime, and humans are not highly available systems.
+
+While this can be compensated for by [being available](#availability), as we say in distributed systems "2 is 1 and 1 is none".
+
+It's actually quite trivial to avoid being a SPoF:
+
+- Choose languages and frameworks that your team is familiar in, or educate them on the new systems
+- Never be someone with sole access to make changes to code, infrastructure, files, or internal tooling
+- Write really good docs. So good that someone could understand how the system works without looking at a single line of code (just reading docs). Or "good enough that a dumb LLM could contribute".
+  - For higher-level architectural docs, write great markdown files, diagrams, or explainer videos
+- **Educate your team such that you could vanish tomorrow without hard-stopping your organization.**
 
 ## Always seek to get better, and are not offended
 
