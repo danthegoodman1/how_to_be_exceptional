@@ -1,10 +1,23 @@
 # How to be Exceptional (or: how to get equity raises)
 
+- [How to be Exceptional (or: how to get equity raises)](#how-to-be-exceptional-or-how-to-get-equity-raises)
+  - [Agency](#agency)
+  - [Unblocking your team is your default #1 priority](#unblocking-your-team-is-your-default-1-priority)
+  - [Always seek to get better, and are not offended](#always-seek-to-get-better-and-are-not-offended)
+  - [Think like your users](#think-like-your-users)
+  - [Understanding why](#understanding-why)
+  - [Responsibility \& ownership](#responsibility--ownership)
+    - [Dependability](#dependability)
+    - [Availability](#availability)
+    - [Context discovery](#context-discovery)
+    - [Miscommunication hedging](#miscommunication-hedging)
+    - [Use AI Often But Responsibly](#use-ai-often-but-responsibly)
+
 I’ve always believed in merit-based compensation.
 
 Team members that show increasing value to the team in multiple dimensions are the ones eligible for being given higher responsibilities among the business, and thus, higher reward (especially in the form of equity: “ownership mentality for ownership of equity”).
 
-When people have an ownership mentality, their game changes entirely. They become more effective, they think more holistically, the operate with more care, efficiency, and effectiveness. 
+When people have an ownership mentality, their game changes entirely. They become more effective, they think more holistically, the operate with more care, efficiency, and effectiveness.
 
 Notice how you can always tell who the owner is at a restaurant?
 
@@ -27,9 +40,9 @@ I've intentionally made this a git repo so it can be seen how my thoughts evolve
 ## Agency
 
 > _High agency is the single biggest predictor of outsized impact._
-> 
+>
 > _It means you act like an owner: you do what the company would do if it could momentarily clone the CEO and point them at the problem._
-> 
+>
 > _Owners don’t wait, they don’t hand-wave, and they don’t need a babysitter._
 
 **You find a way, not an excuse**
@@ -59,7 +72,7 @@ High agency people also:
 ## Unblocking your team is your default #1 priority
 
 > _An exceptional teammate’s default #1 priority is to unblock the rest of their team._
-> 
+>
 > _If you’re a bottleneck for your team, you are a problem. Your responsibility is to enhance your team, not impair them._
 
 *But doesn’t that prevent you from getting any work done?*
@@ -98,9 +111,9 @@ Specific to engineering, exceptional people perform review of other code first t
 ## Always seek to get better, and are not offended
 
 > _Deciding that you are done learning is deciding that you are done progressing in life._
-> 
+>
 > _Exceptional people never put down the desire to learn more, to be better at what they do._
-> 
+>
 > _When mistakes are made, whether collective or individual, they do not take offense, bur rather seek to understand how they could improve or prevent the mistake in the future. They don’t become defensive, they become open to feedback and understanding._
 
 The saying “you become the average of the N people around you” really is true.
@@ -124,9 +137,9 @@ It makes sense that to get better compensation, that should be derived from bein
 ## Think like your users
 
 > _Exceptional people always consider who they are building for._
-> 
+>
 > _If they’re not thinking from the mindset of their users, they’re thinking from the wrong mindset._
-> 
+>
 > _If they’re not testing it how their users would interact with it, they’re testing it wrong._
 
 It’s pretty simple.
@@ -142,9 +155,9 @@ That’s typically always going to happen, and it happens because you build from
 ## Understanding why
 
 > _Understanding why something is being done is almost always as important as doing it in the first place._
-> 
+>
 > _Exceptional people don’t blindly add features, design interfaces, rearchitect the backend, etc._
-> 
+>
 > _They seek to fully understand why a decision has been made to do this, giving them empathy for the end user or system. They look at other implementations and alternatives, and seek the decision process and reception of that implementation to better inform the creation of their own._
 
 Seeking an understanding of why something is being done is a standard in exceptionality.
@@ -156,13 +169,13 @@ An engineer will seek to understand why a feature is being implemented, so as th
 ## Responsibility & ownership
 
 > _Responsibility is something that is demonstrated, not awarded._
-> 
+>
 > _Responsibilities are given to responsible people._
-> 
+>
 > _People who have not proven themselves capable of more responsibilities are not given them._
-> 
+>
 > _Exceptional people exercise responsibility beyond their responsibilities, demonstrating that they are eligible to be given more responsibilities._
-> 
+>
 > _Being given responsibilities is being given ownership of a segment of the business._
 
 Showing that you have the responsibility to have judgement and authority on key components of a business and team is a direct measure of an exceptional team member.
@@ -170,14 +183,14 @@ Showing that you have the responsibility to have judgement and authority on key 
 ### Dependability
 
 > _An exceptional team members gets done what they say they are going to get done._
-> 
+>
 > _Their dependability extends beyond any standard rails that the business operates on._
 
 All that should be needed to know that someone is going to get something done is acknowledgement. Whether that’s a ping in slack, or mentioning a task on a video call, they’ll get it done.
 
 They don’t say, “ok can you make that an issue on Github for me?” or “make that a task?”. Obviously if I had the time to do that, or I had the detail, I would have already. They make their own note, and chase it down with the appropriate urgency, adding it to Github or a task board if they feel the need.
 
-They can be depended on for the output of their work: Their code is tested in prod, their spelling is checked, and 
+They can be depended on for the output of their work: Their code is tested in prod, their spelling is checked, and
 
 Exceptional people are dependable in information retention too.
 
@@ -186,7 +199,7 @@ They retain information from calls because they recognize the need to take notes
 ### Availability
 
 > _Being available for your team is being a team player. My offering minuscule amounts of time and attention from your otherwise off-hours, you prevent your prevent the scenario where your team loses the majority of theirs._
-> 
+>
 > _Being available to solve any critical issues that arise quickly brings immense value to the team, and stops compounding problems dead in their tracks._
 
 Being available is crucial for many reasons:
@@ -231,7 +244,7 @@ Everyone on the team should be held accountable for having high agency.
 ### Context discovery
 
 > _Highly responsible people spend 15-45min to start their day by figuring out what happened while they were offline, or otherwise occupied._
-> 
+>
 > _They do this to gain context on what the rest of the team is doing and look for any mistakes or miscommunication._
 
 Things happen when you are busy, not a problem.
@@ -265,9 +278,9 @@ Sometimes you are not, but the act of collecting the context of what happened wh
 ### Miscommunication hedging
 
 > _Being a good communicator means communicating clearly, communicating concisely, and hedging against communication faults (like missed pings)._
-> 
+>
 > _For every channel that you are expected to be reachable on (e.g. slack), you check your mentions to start your day, when you come back from lunch, 1hr before you end your day._
-> 
+>
 > _You seek clarity when things are potentially ambiguous or changing._
 
 Sometimes communication issues happen:
@@ -284,7 +297,7 @@ Sometimes you haven’t addressed it yet because there were higher priority thin
 ### Use AI Often But Responsibly
 
 > _Exceptional people supplement their knowledge and expertise with AI, they don’t replace it._
-> 
+>
 > _They take full agency to give it the best possible context, verify output correctness, quality, and take full responsibility for what ever it does._
 
 LLMs and agents are amazing, but they are not a silver bullet.
