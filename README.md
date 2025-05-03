@@ -137,7 +137,7 @@ While this can be compensated for by [being available](#availability), as we say
 It's actually quite trivial to avoid being a SPoF:
 
 - Choose languages, frameworks, and tools that your team is familiar in. If not possible, educate your team on what's new (and why)
-- Never be someone with sole access to make changes to code, infrastructure, files, or internal tooling
+- Never have sole access to make changes to code, infrastructure, files, or internal tooling
 - Write really good docs. So good that someone could understand how the system works without looking at a single line of code (just reading docs). Or "good enough that a dumb LLM could contribute".
   - For higher-level architectural docs, write great markdown files, diagrams, or explainer videos
 - **Educate your team such that you could vanish tomorrow without hard-stopping your organization.**
