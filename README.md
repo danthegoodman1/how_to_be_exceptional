@@ -5,7 +5,7 @@
   - [Unblocking your team is your default #1 priority](#unblocking-your-team-is-your-default-1-priority)
   - [Never be a single point of failure](#never-be-a-single-point-of-failure)
   - [Always seek to get better, and are not offended](#always-seek-to-get-better-and-are-not-offended)
-    - [Always open to changing their mind](#always-open-to-changing-their-mind)
+    - [Always open to changing your mind](#always-open-to-changing-your-mind)
   - [Think like your users](#think-like-your-users)
   - [Understanding why](#understanding-why)
   - [Responsibility \& ownership](#responsibility--ownership)
@@ -169,7 +169,7 @@ Exceptional people recognize the potential to be better, to know more, and to do
 
 It makes sense that to get better compensation, that should be derived from being better than your were before?
 
-### Always open to changing their mind
+### Always open to changing your mind
 
 > _Exceptional people know when they're wrong, and change their minds easily._
 >
