@@ -17,7 +17,7 @@
 
 I've always believed in merit-based compensation.
 
-Team members that show increasing value to the team in multiple dimensions are the ones eligible for being given higher responsibilities among the business, and thus, higher reward (especially in the form of equity: “ownership mentality for ownership of equity”).
+Team members that show increasing value to the team in multiple dimensions are the ones eligible for being given higher responsibilities among the business, and thus, higher reward (especially in the form of equity: "ownership mentality for ownership of equity").
 
 When people have an ownership mentality, their game changes entirely. They become more effective, they think more holistically, the operate with more care, efficiency, and effectiveness.
 
@@ -29,9 +29,9 @@ This is a collection on some thoughts on what I think exceptional people do, and
 
 This is what I think the ownership mentality looks like.
 
-It's based on a combination of personal experience, and an obsession of observing the top-shelf of humanity: Not the household CEO names, but the “hands of the CEO”, the ones who they delegate to, the ones who get shit done. Sometimes these people go unnamed for ages. Sometimes they go from intern to CEO.
+It's based on a combination of personal experience, and an obsession of observing the top-shelf of humanity: Not the household CEO names, but the "hands of the CEO", the ones who they delegate to, the ones who get shit done. Sometimes these people go unnamed for ages. Sometimes they go from intern to CEO.
 
-Exceptional people are the opposite of mediocre and complacent. They are happy, but never satisfied. They're never “done”. It really is the exceptional few that positively impact society in a meaningful way.
+Exceptional people are the opposite of mediocre and complacent. They are happy, but never satisfied. They're never "done". It really is the exceptional few that positively impact society in a meaningful way.
 
 Because equity is ownership, only people who consistently work with an owner's mindset deserve more of it.
 
@@ -48,10 +48,10 @@ I've intentionally made this a git repo so it can be seen how my thoughts evolve
 > _Owners don't wait, they don't hand-wave, and they don't need a babysitter._
 
 **You find a way, not an excuse**
-Constraints are real, but they're rarely immovable. You never just say “I/we can't do that”, you say “… but I think we can do this”.
+Constraints are real, but they're rarely immovable. You never just say "I/we can't do that", you say "… but I think we can do this".
 
 **You treat every problem as yours until it's clearly owned**
-“Someone else's problem” is never your first reaction. If you see a problem that's not already owned, you own it until it has the right owner.
+"Someone else's problem" is never your first reaction. If you see a problem that's not already owned, you own it until it has the right owner.
 
 If you're still confused how it applies, take this thought exercise: You somehow get stranded in the middle of nowhere. You know your really rough location, but you only have a single 5-min call before your phone dies. *Who do you call?*
 
@@ -59,7 +59,7 @@ Chances are, you'd call the highest agency person in your life. Because you know
 
 *This is the kind of person you should strive to be for your team.*
 
-You should be the one that someone says “Hey I need something done, I think you're the most fit person to get it done, please help me.”
+You should be the one that someone says "Hey I need something done, I think you're the most fit person to get it done, please help me."
 
 High agency people also:
 
@@ -93,7 +93,7 @@ There are two paths here that can be taken.
 
 **Path 1:**
 
-- You say “I'm working on something right now, I'll help you when I'm done”
+- You say "I'm working on something right now, I'll help you when I'm done"
 - N hours go by (+N hours blocked)
 - There's only 45 min left in the day, so you reconvene when you're both online tomorrow (+N+12 hours blocked)
 - It takes 45min to fix (+N+12.75 hours blocked)
@@ -151,9 +151,9 @@ It's actually quite trivial to avoid being a SPoF:
 >
 > _When mistakes are made, whether collective or individual, they do not take offense, bur rather seek to understand how they could improve or prevent the mistake in the future. They don't become defensive, they become open to feedback and understanding._
 
-The saying “you become the average of the N people around you” really is true.
+The saying "you become the average of the N people around you" really is true.
 
-People who have given up on learning have this “social stench” to them. They consume more than the produce, they become complacent and roll over when things get hard.
+People who have given up on learning have this "social stench" to them. They consume more than the produce, they become complacent and roll over when things get hard.
 
 They've effectively given up. They've capped their value to their team, their family, and their society.
 
@@ -161,7 +161,7 @@ Don't do this to your team, exceptional people always seek to understand more.
 
 They seek to get better at what they are great at, improve upon their mistakes, and explore new practices and technologies whether it enhances their life or just their familiarity with more of the world around them.
 
-They don't think “I know so little” or “I'm so bad”, they think “I have so much to learn” and “It's proven I can be so much better”.
+They don't think "I know so little" or "I'm so bad", they think "I have so much to learn" and "It's proven I can be so much better".
 
 The present was not built by people who decided that we didn't need anything more.
 
@@ -243,7 +243,7 @@ Showing that you have the responsibility to have judgement and authority on key 
 
 All that should be needed to know that someone is going to get something done is acknowledgement. Whether that's a ping in slack, or mentioning a task on a video call, they'll get it done.
 
-They don't say, “ok can you make that an issue on Github for me?” or “make that a task?”. Obviously if I had the time to do that, or I had the detail, I would have already. They make their own note, and chase it down with the appropriate urgency, adding it to Github or a task board if they feel the need.
+They don't say, "ok can you make that an issue on Github for me?" or "make that a task?". Obviously if I had the time to do that, or I had the detail, I would have already. They make their own note, and chase it down with the appropriate urgency, adding it to Github or a task board if they feel the need.
 
 They can be depended on for the output of their work: Their code is tested in prod, their spelling is checked, and
 
@@ -316,7 +316,7 @@ Sometimes you are not, but the act of collecting the context of what happened wh
 2. The on-call engineers handle the situation, but do so by implementing a new correctness bug that you would have spotted immediately from the slack conversation
 3. You *don't* read the downtime thread when you come online
 4. … days go by, logs are leaving their retention, hundreds of thousands of calls are happening
-5. Customer says “hey I was reviewing my calls from last month and I noticed X, this is wrong”
+5. Customer says "hey I was reviewing my calls from last month and I noticed X, this is wrong"
 6. Over the new few hours, the issue is escalated up to top management because of the severity of how badly this messed up not only one customer, but *all of them*
 7. Logs have been discarded, cannot use logs to recover all the issues
 8. *Major business damage, major relationship damage*
@@ -345,7 +345,7 @@ Sometimes communication issues happen:
 
 etc.
 
-This can *trivially* be hedged against with a few things that take at most minutes of your day. This prevents small miscommunication from becoming a massive lapse in team performance and reliability. “Oh I missed your ping” +14 hours later when the person sends “@you ping” is another way of saying “I'm not taking a few minutes of my day to prevent 10+ hour spins on productivity for my team”.
+This can *trivially* be hedged against with a few things that take at most minutes of your day. This prevents small miscommunication from becoming a massive lapse in team performance and reliability. "Oh I missed your ping" +14 hours later when the person sends "@you ping" is another way of saying "I'm not taking a few minutes of my day to prevent 10+ hour spins on productivity for my team".
 
 Sometimes you haven't addressed it yet because there were higher priority things to attend to. Good. But you marked it down such that you've not just lost the ping, you're guaranteed to get back to it at some point, because you were **Responsible** in keeping track of communication.
 
