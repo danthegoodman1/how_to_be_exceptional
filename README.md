@@ -48,7 +48,7 @@ I've intentionally made this a git repo so it can be seen how my thoughts evolve
 > _Owners don't wait, they don't hand-wave, and they don't need a babysitter._
 
 **You find a way, not an excuse**
-Constraints are real, but they're rarely immovable. You never just say “i can/we can't do that”, you say “… but I think we can do this”.
+Constraints are real, but they're rarely immovable. You never just say “I/we can't do that”, you say “… but I think we can do this”.
 
 **You treat every problem as yours until it's clearly owned**
 “Someone else's problem” is never your first reaction. If you see a problem that's not already owned, you own it until it has the right owner.
