@@ -35,7 +35,7 @@ Exceptional people are the opposite of mediocre and complacent. They are happy, 
 
 Because equity is ownership, only people who consistently work with an owner's mindset deserve more of it.
 
-Build like your legacy depends on it. Own your domain, own problems, and own outcomes. Follow-through to set yourself up for the next thing.
+Build like your legacy depends on it. Own your domain, own problems, and own the outcomes. Follow-through to set yourself up for the next thing.
 
 I've intentionally made this a git repo so it can be seen how my thoughts evolve over time.
 
