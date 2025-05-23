@@ -14,6 +14,7 @@
     - [Context discovery](#context-discovery)
     - [Miscommunication hedging](#miscommunication-hedging)
     - [Use AI Often But Responsibly](#use-ai-often-but-responsibly)
+  - [Other Resources](#other-resources)
 
 I've always believed in merit-based compensation.
 
@@ -368,3 +369,10 @@ They:
 - Find ways that AI can help, not bloat
 - Gut-check with it constantly as an opportunity to correct misunderstanding, not validate their understanding (which it hallucinates often). They don't fall victim to hallucinations, they always verify.
 - Understand how to provide it with the proper context to give it the best chance possible to give useful (and correct) answers.
+
+## Other Resources
+
+Some other resources I think are great, and well written. Linking them directly both for credit, and also to keep this README from being _massive_.
+
+- [Operating well - what I learned at Stripe](https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at)
+- [What I Miss About Working at Stripe](https://every.to/p/what-i-miss-about-working-at-stripe)
